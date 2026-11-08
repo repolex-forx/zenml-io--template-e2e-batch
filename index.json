@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "template-e2e-batch",
+  "versions": [
+    {
+      "commit": "b6d727e6f0fedff6f37f5ac43c1f4949480d1160",
+      "tag": "2025.12.17",
+      "parsed_at": "2026-11-08T05:40:06.964892+00:00"
+    }
+  ]
+}
