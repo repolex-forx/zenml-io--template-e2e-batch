@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/zenml-io/template-e2e-batch/commit/b6d727e6f0fedff6f37f5ac43c1f4949480d1160",
       "git:hexsha": "b6d727e6f0fedff6f37f5ac43c1f4949480d1160",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2025.12.17"
     },
     {
